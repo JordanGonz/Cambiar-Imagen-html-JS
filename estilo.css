@@ -1,0 +1,30 @@
+.subir{
+    color: aliceblue;
+    background-color: blueviolet;
+}
+
+.delete{
+    color: black;
+    background-color: brown;
+}
+
+#uploadImageFile{
+    display: none;
+}
+
+
+.boton{
+    color: aliceblue;
+    position: absolute;
+     top: 100px;
+     left: 440px;
+    background-color: blueviolet;
+    padding: 10px;
+ }
+ 
+ .boton:hover{
+    background-color: aquamarine;
+    color: black;
+     box-shadow: cadetblue;
+  }
+ 
